@@ -118,7 +118,7 @@ OPENAI_API_KEY=your_openai_key_here</code></pre>
 
   <h2>👨‍💻 Team Members</h2>
   <ul>
-    <li>Het Knjariya (Leader)</li>
+    <li>Het Knjariya</li>
     <li>Maulik Pandor</li>
     <li>Chirag Khandala</li>
     <li>Hardik Vanza</li>
